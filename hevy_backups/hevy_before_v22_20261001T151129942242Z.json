@@ -1,0 +1,2839 @@
+{
+  "captured_at_utc": "2026-10-01T15:11:29.942719+00:00",
+  "note": "Reference snapshot of API-returned routines; not an automatic restore payload.",
+  "routines": [
+    {
+      "id": "de366749-7ffb-42aa-a051-1a3fdddbf712",
+      "title": "Upper A - Chest + Lats Strength V2.1",
+      "folder_id": 3386110,
+      "updated_at": "2026-09-22T20:43:50.049Z",
+      "created_at": "2026-08-07T19:33:34.389Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Incline Bench Press (Dumbbell)",
+          "notes": "SLOT 1 - PRESS ANCHOR | PRIMARY. Set the bench around 15-30 degrees, plant the feet and keep the shoulder blades gently back/down. Lower under control to a comfortable chest depth and press without rib flare or bouncing. Target about 2 RIR; final set may reach 1 RIR only with unchanged ROM. Current anchor is 52.5 lb after 8/7/6/6 on Aug 31. Hold until 4x8 is clean at target RIR on two exposures before 55.",
+          "exercise_template_id": "07B38369",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "warmup",
+              "weight_kg": 12.473805009480094,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 6,
+                "end": 8
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 23.813627745371086,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 6,
+                "end": 8
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 23.813627745371086,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 6,
+                "end": 8
+              }
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 23.813627745371086,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 6,
+                "end": 8
+              }
+            },
+            {
+              "index": 4,
+              "type": "normal",
+              "weight_kg": 23.813627745371086,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 6,
+                "end": null
+              }
+            }
+          ],
+          "rest_seconds": 150
+        },
+        {
+          "index": 1,
+          "title": "Iso-Lateral Low Row",
+          "notes": "SLOT 2 - HORIZONTAL PULL | PRIMARY. Set the seat/chest position so the handle finishes near the lower ribs. Keep the torso square and supported; reach forward under control, then drive the elbow back without twisting or shrugging. Start with the weaker side and match clean reps. Target 1-2 RIR. Current anchor is 50 lb; Aug 31 reached 3x12 but the last set was RPE 9.5, so repeat it cleaner before adding load. Success means lat/upper-back tension with no rotation.",
+          "exercise_template_id": "91FAFBA3",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "warmup",
+              "weight_kg": 15.87575183024739,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": null
+              }
+            }
+          ],
+          "rest_seconds": 120
+        },
+        {
+          "index": 2,
+          "title": "Seated Row (Machine)",
+          "notes": "SLOT 2 - HORIZONTAL PULL | ALT. Replaces Iso-Lateral Low Row. Choose ONE movement for this slot; never do both by default. Use this when the iso-lateral low row is unavailable; accepting a bilateral row for the day is better than adding another row later to restore the unilateral pattern. Keep the torso planted, allow a controlled reach, and drive elbows toward the ribs without leaning back. Historical anchor is 120 lb, but this machine has not been the recent primary: first work set should land around 2-3 RIR, then adjust. Track this row independently from every other row machine.",
+          "exercise_template_id": "1DF4A847",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 54.43114913227677,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 54.43114913227677,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 54.43114913227677,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            }
+          ],
+          "rest_seconds": 120
+        },
+        {
+          "index": 3,
+          "title": "Iso-Lateral Chest Press (Machine)",
+          "notes": "SLOT 3 - CHEST PRESS | PRIMARY. Set the seat so the handles start around mid-chest and the shoulders remain comfortable. Keep feet planted, ribs controlled and shoulder blades stable; press smoothly without shrugging or shortening ROM. Target about 2 RIR. Current anchor is 45 lb; Aug 31 reached 3x12 but the final set was RPE 9.5, so hold until that result repeats with better reserve. Success is chest-driven reps with an even path and no shoulder pinch or grinder reps.",
+          "exercise_template_id": "24706DCD",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 20.41168092460379,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 20.41168092460379,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 20.41168092460379,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            }
+          ],
+          "rest_seconds": 120
+        },
+        {
+          "index": 4,
+          "title": "Lat Pulldown (Machine)",
+          "notes": "SLOT 4 - VERTICAL PULL | PRIMARY. Use a grip that lets the elbows travel toward the ribs without shoulder discomfort. Sit tall with only a slight lean; initiate by depressing the shoulder blades, then pull without swinging. Target 1-2 RIR. Current machine anchor is 115 lb; Aug 31 was 3x8 with the final set at RPE 9.5, so build toward 3x10 before adding load. Keep this machine's history separate from cable or plate-loaded pulldowns. Success is full stretch with no torso heave.",
+          "exercise_template_id": "473CF5B8",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 52.16318458509857,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 52.16318458509857,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 52.16318458509857,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            }
+          ],
+          "rest_seconds": 90
+        },
+        {
+          "index": 5,
+          "title": "Lat Pulldown (Cable)",
+          "notes": "SLOT 4 - VERTICAL PULL | ALT. Replaces Lat Pulldown (Machine). Choose ONE movement for this slot; never do both by default. Use this cable version only when the normal pulldown machine is unavailable. Cable-stack numbers are not comparable with the 115-lb machine track. On Aug 19 you worked 60/65/70 for 10 reps at roughly RPE 7.5-8, so 70 lb is a useful station-specific anchor only if it is the same setup. If the station differs, make set 1 a 2-3 RIR calibration. Keep the torso quiet, use a full stretch and progress this variation independently.",
+          "exercise_template_id": "6A6C31A5",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 31.75150366049478,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 31.75150366049478,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 31.75150366049478,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            }
+          ],
+          "rest_seconds": 90
+        },
+        {
+          "index": 6,
+          "title": "Seated Lateral Raise (Dumbbell)",
+          "notes": "SLOT 5 - SIDE DELT | PRIMARY. Sit tall with the dumbbells slightly forward of the hips. Lead with the elbows in the scapular plane and stop before traps, torso swing or shrugging take over. Target 1-2 RIR for 12-20 strict reps. Your strict seated Aug 31 baseline was 12.5x20x3 at RPE 7-8. Increase only by the smallest practical increment and accept reps returning toward the bottom of the range. Success is side-delt tension with the body position unchanged.",
+          "exercise_template_id": "9372FFAA",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 5.669911367945497,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 5.669911367945497,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 5.669911367945497,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 7,
+          "title": "Single Arm Lateral Raise (Cable)",
+          "notes": "SLOT 5 - SIDE DELT | ALT. Replaces Seated Lateral Raise (Dumbbell). Choose ONE movement for this slot; never do both by default. Use this when the seated dumbbell setup is inconvenient or unavailable. Stand far enough from the stack to keep tension at the bottom, hold the frame for stability and lead with the elbow without leaning, shrugging or rotating. Target 1-2 RIR and start with the weaker side. Recent cable work at 12.5 lb reached 16-rep sets but also RPE 10, so do not chase load. Different cable stations require recalibration and their numbers stay separate from dumbbells.",
+          "exercise_template_id": "DE68C825",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 5.669911367945497,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 5.669911367945497,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 5.669911367945497,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 8,
+          "title": "Bench Press (Barbell)",
+          "notes": "SLOT 3 \u2014 CHEST PRESS ALT. Replaces Iso-Lateral Chest Press; perform ONE only. Plant feet, brace and maintain stable shoulder blades. Use a controlled touch point and consistent bar path; no bouncing or grinder reps. Because this is not your primary tracked press, calibrate the first work set to ~2\u20133 RIR, then use 3x6\u201310 at ~2 RIR. Track barbell progression separately from DB/machine pressing. Success = repeatable ROM and clean reps.",
+          "exercise_template_id": "79D0BB3A",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "warmup",
+              "weight_kg": 20.41168092460379,
+              "reps": 6,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 52.16318458509857,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 52.16318458509857,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 52.16318458509857,
+              "reps": 7,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 120
+        },
+        {
+          "index": 9,
+          "title": "Reverse Grip Single Triceps Extension",
+          "notes": null,
+          "exercise_template_id": "e0571c57-3fba-499e-b122-01b79f4e833c",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 7.937875915123695,
+              "reps": 15,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 7.937875915123695,
+              "reps": 15,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 10,
+          "title": "Hammer Curl (Cable)",
+          "notes": null,
+          "exercise_template_id": "36E8F14E",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 12.473805009480094,
+              "reps": 15,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 13.607787283069193,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 11,
+          "title": "Bench Press (Dumbbell)",
+          "notes": "ALT \u2014 CHEST PRESS SLOT. Replaces Iso-Lateral Chest Press; perform ONE only. Set bench flat, plant feet and keep shoulder blades stable. Lower DBs under control to a comfortable chest depth and press without bouncing or excessive rib flare. Start around 50 lb/hand and target ~2 RIR for 8\u201312. Progress reps before load; earn 3x12 twice before increasing. Success = chest-driven reps, consistent ROM and no shoulder irritation.",
+          "exercise_template_id": "3601968B",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 20.41168092460379,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 20.41168092460379,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 18.14371637742559,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 12,
+          "title": "Chest Fly (Dumbbell)",
+          "notes": null,
+          "exercise_template_id": "12017185",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 14.741769556658292,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 14.741769556658292,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 90
+        }
+      ]
+    },
+    {
+      "id": "03aa37fa-7362-4c28-a26e-8a113e41ea8b",
+      "title": "Lower A - Quads + Glutes V2.1",
+      "folder_id": 3386110,
+      "updated_at": "2026-09-24T21:18:04.517Z",
+      "created_at": "2026-08-07T19:33:34.461Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Hack Squat (Machine)",
+          "notes": "SLOT 1 - QUAD COMPOUND | PRIMARY. Brace hard, use consistent foot placement and descend only as deep as the pelvis/back remain controlled. Keep whole-foot pressure and allow the knees to track naturally. Target about 2 RIR. Current Sep 1 anchor is 215x8x3 at RPE 8.5; build reps before load. If this exact hack is occupied, use the pre-loaded Leg Press ALT and do not come back later to add hack sets. Different hack models are separate lifts and require a 2-3 RIR calibration set.",
+          "exercise_template_id": "1E42FD5F",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 97.5224,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 6,
+                "end": 10
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 97.5224,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 6,
+                "end": 10
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 97.5224,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 6,
+                "end": 10
+              }
+            }
+          ],
+          "rest_seconds": 180
+        },
+        {
+          "index": 1,
+          "title": "Leg Press (Machine)",
+          "notes": "SLOT 1 - QUAD COMPOUND | ALT. Replaces Hack Squat. Choose ONE movement for this slot; never do both by default. Use this when the Hack Squat is unavailable or when Leg Press is intentionally selected for this exposure. Set the seat/foot position so you can reach controlled depth without the pelvis rolling off the pad; keep knees tracking and pressure through the whole foot. Aug 26 anchor on this machine was 230x12x3 at RPE 7.5-8.5. Repeat that quality before increasing. Never transfer this number to another leg press model; calibrate unfamiliar machines at 2-3 RIR.",
+          "exercise_template_id": "C7973E0E",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "warmup",
+              "weight_kg": 40.82336184920758,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "warmup",
+              "weight_kg": 81.64672369841516,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 113.39822735890993,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 113.39822735890993,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": null
+              }
+            },
+            {
+              "index": 4,
+              "type": "normal",
+              "weight_kg": 113.39822735890993,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": null
+              }
+            }
+          ],
+          "rest_seconds": 180
+        },
+        {
+          "index": 2,
+          "title": "Single Leg Extensions",
+          "notes": "SLOT 2 - QUAD ISOLATION | PRIMARY. Align the knee with the machine pivot and place the pad above the ankle. Start with the weaker leg, keep hips down and match ROM/tempo side to side without kicking. Target 1-2 RIR for 10-15 reps. Sep 1 anchor is 45 lb for 15/12/12 at RPE 8-8.5, so hold until all sets reach 15 cleanly before increasing. If the machine model changes, calibrate and treat it as a separate track. Success is a hard quad contraction with identical control on both sides.",
+          "exercise_template_id": "629AE73D",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 20.41168092460379,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 20.41168092460379,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 20.41168092460379,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 3,
+          "title": "Seated Leg Curl (Machine)",
+          "notes": "SLOT 3 - HAMSTRING CURL | PRIMARY. Align the knee with the machine pivot and keep hips planted. Start from a controlled stretch, curl without lifting the pelvis, squeeze briefly and return slowly. Target 1-2 RIR for 8-12 reps. Aug 26 anchor is 115x12x3 at RPE 8-8.5; repeat that performance before increasing. If this machine is occupied, use the pre-loaded Lying Leg Curl ALT. Seated and lying curl loads are not interchangeable and each keeps its own progression history.",
+          "exercise_template_id": "11A123F3",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "warmup",
+              "weight_kg": 27.215574566138386,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 54.43114913227677,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 54.43114913227677,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 54.43114913227677,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": null
+              }
+            }
+          ],
+          "rest_seconds": 90
+        },
+        {
+          "index": 4,
+          "title": "Lying Leg Curl (Machine)",
+          "notes": "SLOT 3 - HAMSTRING CURL | ALT. Replaces Seated Leg Curl. Choose ONE movement for this slot; never do both by default. Use this when the seated curl is unavailable. Set the pad just above the ankles and keep hips pressed into the bench; curl smoothly, squeeze without lifting the pelvis and control the return. Sep 1 established a fresh baseline of 70x10/10/12 at RPE 8-8.5, so keep 70 and build all sets toward 12 before load. This is a separate lift from seated curl: never copy the 115-lb seated number. If the prone machine changes, recalibrate at 2-3 RIR.",
+          "exercise_template_id": "B8127AD1",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 31.7515,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 31.7515,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 31.7515,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            }
+          ],
+          "rest_seconds": 90
+        },
+        {
+          "index": 5,
+          "title": "Standing Calf Raise (Machine)",
+          "notes": "SLOT 4 - CALVES | PRIMARY. Use a deep controlled bottom stretch and finish every rep with a real top contraction; keep knees and torso quiet instead of bouncing. Target 1-2 RIR for 10-15 reps. Current standing-machine anchor is 60 lb, but recent sets have climbed to RPE 9.5-10, so prioritize cleaner reserve rather than forcing 65. If this machine is busy, choose ONE calf ALT below. Standing, press and extension loads are never interchangeable. Success is full ROM on every rep.",
+          "exercise_template_id": "E05C2C38",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 27.2155,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 27.2155,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 27.2155,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 6,
+          "title": "Calf Press (Machine)",
+          "notes": "SLOT 4 - CALVES | ALT. Replaces Standing Calf Raise. Choose ONE movement for this slot; never do both by default. Use this when the standing calf machine is unavailable. Keep knees softly fixed, allow the heel to travel into a controlled stretch and finish with a deliberate plantar-flexion squeeze instead of bouncing. Aug 26 anchor on this machine is 110 lb for 12/12/13 at RPE 7.5-8.5, so stay there and build toward 3x15. This number belongs only to this calf-press setup. If the machine or leverage changes, first set is a 2-3 RIR calibration and the new progression track stays separate.",
+          "exercise_template_id": "91237BDD",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 49.895220037920375,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 49.895220037920375,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 49.895220037920375,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 7,
+          "title": "Calf Extension (Machine)",
+          "notes": "SLOT 4 - CALVES | ALT. Replaces Standing Calf Raise. Choose ONE movement for this slot; never do both by default. Use this when the other calf stations are unavailable. The Sep 1 attempt at 80 lb went 15/12/10/10 and ended at RPE 10, so V2.1 deliberately resets the suggested anchor to a conservative 70 lb. Make set 1 a calibration around 2-3 RIR; if it is still easier than expected, adjust gradually for sets 2-3. Stop at three productive sets and do not chase failure. Track this machine independently from standing raise or calf press; full stretch and top contraction define success.",
+          "exercise_template_id": "47B9DF13",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 31.7515,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 31.7515,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 31.7515,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 8,
+          "title": "Cable Core Pallof Press",
+          "notes": "OPTIONAL SLOT - CORE/HIP | OPTIONAL. This is true add-on work, not required Core-4 volume. Choose this OR Hip Abduction after the four main Lower A slots when time and recovery are good. Set the cable around lower-chest height, brace ribs over pelvis and press straight out without allowing the torso to rotate or lean. This is controlled trunk work, not a max-effort lift; keep roughly 2-3 RIR. Sep 1 used 22.5x20 with RPE 8-8.5. Progress with cleaner pauses/control before load. Success is staying square with a quiet low back from first rep to last.",
+          "exercise_template_id": "CC55119B",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 7.937875915123695,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 7.937875915123695,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 9,
+          "title": "Hip Abduction (Machine)",
+          "notes": "OPTIONAL SLOT - CORE/HIP | OPTIONAL. This is true add-on work, not required Core-4 volume. Choose this OR Pallof Press after the four main Lower A slots; do not automatically perform both. Set the seat so hips stay fully supported, then drive the knees out without bouncing, rocking the torso or shortening the return. Target 1-2 RIR for 15-20 reps. Recent useful anchor is 75 lb for 20 with controlled effort; if using a different abduction machine, recalibrate at 2-3 RIR and keep that machine's history separate. Success is glute/outer-hip tension with the pelvis fixed.",
+          "exercise_template_id": "F4B4C6EE",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 36.28743275485118,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 15,
+                "end": 20
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 36.28743275485118,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 15,
+                "end": 20
+              }
+            }
+          ],
+          "rest_seconds": 60
+        }
+      ]
+    },
+    {
+      "id": "61f958df-a956-4db7-9637-d1ae033df866",
+      "title": "Upper B - Shoulders + V-Taper V2.1",
+      "folder_id": 3386110,
+      "updated_at": "2026-09-28T21:10:48.527Z",
+      "created_at": "2026-08-07T19:33:34.664Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Iso Pulldown",
+          "notes": "SLOT 1 - UNILATERAL VERTICAL PULL | PRIMARY. Set the seat/thigh pad so the working shoulder can fully lengthen without the torso lifting. Pull one arm at a time by driving the elbow down/back while staying square. Aug 27 anchor is 50 lb for 8/10/12 at RPE 7-8, so keep 50 and build all three sets to 12 before adding plates. Start with the weaker side and match clean reps. Plate-loaded loads are separate from selectorized pulldowns. If occupied, use the Single Arm Lat Pulldown ALT rather than copying loads.",
+          "exercise_template_id": "cd48f37f-1f5f-44d3-8ef0-bdfded048805",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "warmup",
+              "weight_kg": 15.87575183024739,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 27.215574566138386,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 27.215574566138386,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 27.215574566138386,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": null
+              }
+            }
+          ],
+          "rest_seconds": 90
+        },
+        {
+          "index": 1,
+          "title": "Single Arm Lat Pulldown",
+          "notes": "SLOT 1 - UNILATERAL VERTICAL PULL | ALT. Replaces Iso Pulldown. Choose ONE movement for this slot; never do both by default. Use this selectorized single-arm pulldown when the iso plate-loaded station is unavailable. Keep the torso square, allow a full lat stretch and drive the elbow toward the hip without twisting or yanking. Historical Jul 30 data showed 100x12 was appropriate while the jump to 120 produced only 6s, so use 100 lb as the anchor and build 3x12 cleanly before reconsidering the large stack jump. Never copy the 50-lb plate-loaded number to this machine; each has its own track.",
+          "exercise_template_id": "2EE45F81",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 45.3592,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 45.3592,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 45.3592,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            }
+          ],
+          "rest_seconds": 90
+        },
+        {
+          "index": 2,
+          "title": "Seated Overhead Press (Dumbbell)",
+          "notes": "SLOT 2 - SHOULDER PRESS | PRIMARY. Use a high-backed bench and a grip/elbow angle that keeps the shoulders comfortable. Brace, control the ribs and press smoothly without turning late reps into a grind. Target about 2 RIR for 6-10 reps. Aug 27 anchor is 35x9x3 at RPE 7.5/8.5/9.5, so hold until 3x10 can be repeated without the final set exceeding roughly RPE 9. Success is a stable back position, even dumbbell path and no shoulder pinch. This remains a stable anchor rather than a frequent substitution slot.",
+          "exercise_template_id": "9930DF71",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "warmup",
+              "weight_kg": 7.937875915123695,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 6,
+                "end": 10
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 6,
+                "end": 10
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 6,
+                "end": 10
+              }
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 9,
+                "end": null
+              }
+            }
+          ],
+          "rest_seconds": 120
+        },
+        {
+          "index": 3,
+          "title": "Chest Supported T Bar Row",
+          "notes": "SLOT 3 - HORIZONTAL PULL | PRIMARY. Set the chest pad so you can reach into a full shoulder-blade stretch while keeping torso contact. Brace the feet, pull elbows toward the hips/ribs and avoid jerking the weight off the bottom. Target 1-2 RIR for 8-10 reps. Aug 27 anchor is 60 for 10/10/8 with the last set at RPE 9.5, so hold and own 3x10 before adding load. If this station is occupied, use the Seated Row ALT and do not later return to add T-bar sets. Different T-bar models are separate lifts.",
+          "exercise_template_id": "6A8D3193",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 27.2155,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 27.2155,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 27.2155,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            }
+          ],
+          "rest_seconds": 120
+        },
+        {
+          "index": 4,
+          "title": "Seated Row (Machine)",
+          "notes": "SLOT 3 - HORIZONTAL PULL | ALT. Replaces Chest Supported T Bar Row. Choose ONE movement for this slot; never do both by default. Use this bilateral supported row when the chest-supported T-bar is unavailable. Keep the torso planted, allow a controlled reach and drive elbows toward the ribs without leaning back. Historical Jul 27 work used 120 lb for 6/7/8/8; because this has not been the recent primary, treat 120 as an anchor rather than a promise and calibrate set 1 around 2-3 RIR. Build within 8-12 reps and keep the machine's progression separate from T-bar or iso-low-row numbers.",
+          "exercise_template_id": "1DF4A847",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 52.16318458509857,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 52.16318458509857,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 52.16318458509857,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            }
+          ],
+          "rest_seconds": 120
+        },
+        {
+          "index": 5,
+          "title": "Low Cable Fly Crossovers",
+          "notes": "SLOT 4 - CHEST FLY | PRIMARY. Set the pulleys low enough for the hands to travel up/in while the shoulders remain comfortable. Keep a soft elbow bend and think 'hug' rather than press; stop the stretch before the shoulder rolls forward. Target 1-2 RIR for 10-15 reps. Familiar cable anchor is 12.5 lb; Aug 31 showed that chasing a failure drop set added fatigue without benefit, so keep the three planned sets controlled. If the station is busy, choose ONE fly ALT below and track it independently.",
+          "exercise_template_id": "293483AD",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 5.6699,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 5.6699,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 5.6699,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 6,
+          "title": "Decline Chest Fly (Dumbbell)",
+          "notes": "SLOT 4 - CHEST FLY | ALT. Replaces Low Cable Fly Crossovers. Choose ONE movement for this slot; never do both by default. Use this when the cable fly station is unavailable. Set a modest decline, keep a soft elbow bend and lower only to a comfortable pec stretch without letting the shoulder roll forward; bring the dumbbells together as a fly, not a press. Aug 27 anchor is 25x12x3 at RPE 8, making this a well-calibrated substitute. Build toward 3x15 before increasing. Dumbbell fly loads are independent from cable or pec-deck numbers. Completing this replaces the cable fly slot for the day.",
+          "exercise_template_id": "A351AED7",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 12.473805009480094,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 12.473805009480094,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 12.473805009480094,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 7,
+          "title": "Chest Fly (Machine)",
+          "notes": "SLOT 4 - CHEST FLY | ALT. Replaces Low Cable Fly Crossovers. Choose ONE movement for this slot; never do both by default. Use this if both the cable fly and dumbbell setup are inconvenient. Adjust the seat so the elbows/hands move through a comfortable chest-level arc; keep the sternum tall, shoulders down and control both the stretch and squeeze without slamming the stack. Historical Aug 3 work was 85-90 lb for 12, so start at 85 and calibrate the first set around 2-3 RIR before committing. Track the pec-deck separately from every fly variation. Choose only one fly movement for the slot.",
+          "exercise_template_id": "78683336",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 38.55539730202938,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 38.55539730202938,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 38.55539730202938,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 8,
+          "title": "Single Arm Lateral Raise (Cable)",
+          "notes": "SLOT 5 - SIDE DELT | PRIMARY. Stand far enough from the stack to keep tension at the bottom. Hold the frame for stability, lead with the elbow and raise in the scapular plane without leaning, shrugging or rotating. Target 1-2 RIR for 12-20 per side; weaker side first. Aug 27 was 12.5x16x3 but the final set reached RPE 10, so keep 12.5 and improve reserve/reps rather than adding load. Cable stations differ. If unavailable, use the seated dumbbell ALT and keep its history separate.",
+          "exercise_template_id": "DE68C825",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 5.669911367945497,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 5.669911367945497,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 5.669911367945497,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 9,
+          "title": "Seated Lateral Raise (Dumbbell)",
+          "notes": "SLOT 5 - SIDE DELT | ALT. Replaces Single Arm Lateral Raise (Cable). Choose ONE movement for this slot; never do both by default. Use this when the cable station is occupied. Sit tall with dumbbells slightly forward of the hips, lead with the elbows and stop before traps, torso swing or shrugging take over. Target 1-2 RIR for 12-20 strict reps. Current strict seated baseline is 12.5x20x3 at RPE 7-8, so use the smallest practical next increment only when control stays clean. Do not import old standing lateral-raise numbers here. This replaces the cable side-delt slot.",
+          "exercise_template_id": "9372FFAA",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 5.669911367945497,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 6.8038936415345965,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 6.8038936415345965,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 10,
+          "title": "Rear Delt Reverse Fly (Machine)",
+          "notes": "OPTIONAL SLOT - REAR DELT | OPTIONAL. This is true add-on work, not required Core-4 volume. Add only when Upper B remains within the intended time/set target and shoulders feel good. Set the machine so the arms travel out/back without turning the rep into a row; keep the torso stable and shoulders down. Target 1-2 RIR for 15-20 reps. Aug 27 used 70x12 then 75x10, which is below this optional rep target, so start around 70 and earn the range before load. If this machine is unavailable, simply skip the optional work rather than hunting for more volume.",
+          "exercise_template_id": "D8281C62",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 31.7515,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 15,
+                "end": 20
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 31.7515,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 15,
+                "end": 20
+              }
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 11,
+          "title": "Seated Cable Row - V Grip (Cable)",
+          "notes": null,
+          "exercise_template_id": "0393F233",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": 12,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": 12,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": 12,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 120
+        },
+        {
+          "index": 12,
+          "title": "Rear Delt Reverse Fly (Cable)",
+          "notes": null,
+          "exercise_template_id": "C315DC2A",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 4.535929094356398,
+              "reps": 12,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 4.535929094356398,
+              "reps": 12,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 3.4019468207672983,
+              "reps": 20,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 13,
+          "title": "Seated Shoulder Press (Machine)",
+          "notes": null,
+          "exercise_template_id": "9237BAD1",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "warmup",
+              "weight_kg": 11.339822735890994,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": 12,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": 12,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": 12,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 60
+        }
+      ]
+    },
+    {
+      "id": "a9f80970-506d-41cf-a8f6-408b1bfdef50",
+      "title": "Lower B - Posterior + Stability V2.1",
+      "folder_id": 3386110,
+      "updated_at": "2026-09-29T20:57:04.496Z",
+      "created_at": "2026-08-07T19:33:34.729Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Hip Thrust (Machine)",
+          "notes": "SLOT 1 - HIP THRUST | PRIMARY. Set the pad/belt securely across the hips and place the feet so shins are near vertical at lockout. Brace ribs down, drive through the whole foot and pause at the top using glutes rather than lumbar extension. Target about 2 RIR for 8-10 reps. Aug 28 anchor is 135x10x3 at RPE 8-8.5; repeat that performance once more before increasing. Different hip-thrust machines are separate lifts and require calibration. Success is a full glute lockout with a neutral trunk and no back discomfort.",
+          "exercise_template_id": "68CE0B9B",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "warmup",
+              "weight_kg": 31.75150366049478,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 63.50300732098956,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 63.50300732098956,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 63.50300732098956,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": null
+              }
+            }
+          ],
+          "rest_seconds": 120
+        },
+        {
+          "index": 1,
+          "title": "Romanian Deadlift (Dumbbell)",
+          "notes": "SLOT 2 - HINGE | PRIMARY. Stand hip-width with dumbbells close to the legs. Soften the knees, brace and push the hips back until the hamstrings are loaded; stop before spinal position changes. Keep lats tight and stand by driving the hips through. Target about 2 RIR. You earned the move from 45x10x3 to 47.5x8x3 at RPE 7.5-8 on Aug 28; now build reps before load. Success means hamstrings/glutes limit the set rather than grip, balance or low-back position. Keep this as a stable anchor.",
+          "exercise_template_id": "72CFFAD5",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 22.67964547178199,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 22.67964547178199,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 22.67964547178199,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            }
+          ],
+          "rest_seconds": 120
+        },
+        {
+          "index": 2,
+          "title": "Reverse Lunge (Dumbbell)",
+          "notes": "SLOT 3 - UNILATERAL LEG | PRIMARY. Start tall and take a controlled step back. Keep the front foot planted, pelvis level and knee tracking cleanly; avoid pushing off the rear leg. Start with the weaker side and match clean reps. Target about 2 RIR for 8-10 per leg. You progressed from 30x10x3 to 32.5x8x3 at RPE 7.5-8 on Aug 28, so stay at 32.5 and build reps. Success is a repeatable stride, stable pelvis and no balance or back compensation. Keep this movement stable when possible.",
+          "exercise_template_id": "FFDA283B",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 10
+              }
+            }
+          ],
+          "rest_seconds": 90
+        },
+        {
+          "index": 3,
+          "title": "Standing Leg Curls",
+          "notes": "SLOT 4 - HAMSTRING CURL | PRIMARY. Align the working knee with the machine pivot and keep the thigh/hip fixed against the pad. Curl through the available ROM without arching, twisting or using momentum; lower slowly. Start weaker side and match reps. Target 1-2 RIR for 8-12 per leg. Aug 28 anchor is 55 for 9/9/10 with the last set at RPE 9.5, so hold until 3x12 cleanly. If occupied, choose one curl ALT below; never copy loads between standing, seated or lying machines.",
+          "exercise_template_id": "6120CAAB",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            }
+          ],
+          "rest_seconds": 90
+        },
+        {
+          "index": 4,
+          "title": "Seated Leg Curl (Machine)",
+          "notes": "SLOT 4 - HAMSTRING CURL | ALT. Replaces Standing Leg Curl. Choose ONE movement for this slot; never do both by default. Use this when the standing curl station is unavailable. Align the knee with the machine pivot, keep hips planted and use a controlled stretch, full curl and slow return. Aug 26 anchor is 115x12x3 at RPE 8-8.5, so repeat that quality before adding load. This is a bilateral substitute for the day; do not add extra curl volume later to compensate. Seated-curl numbers are independent from standing and lying machines; a different model needs a 2-3 RIR calibration set.",
+          "exercise_template_id": "11A123F3",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 52.1631,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 52.1631,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 52.1631,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            }
+          ],
+          "rest_seconds": 90
+        },
+        {
+          "index": 5,
+          "title": "Lying Leg Curl (Machine)",
+          "notes": "SLOT 4 - HAMSTRING CURL | ALT. Replaces Standing Leg Curl. Choose ONE movement for this slot; never do both by default. Use this if both standing and seated curls are unavailable or inconvenient. Set the pad just above the ankles, keep the hips pressed into the bench and curl smoothly without lifting the pelvis; control the return. Sep 1 established 70x10/10/12 at RPE 8-8.5, making 70 a useful baseline. Build all sets toward 12 before load. Do not compare this number with 55 standing or 115 seated. Completing this is the entire hamstring-curl slot for the day.",
+          "exercise_template_id": "B8127AD1",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 31.75150366049478,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 31.75150366049478,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 31.75150366049478,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            }
+          ],
+          "rest_seconds": 90
+        },
+        {
+          "index": 6,
+          "title": "Standing Calf Raise (Machine)",
+          "notes": "OPTIONAL SLOT - CALVES | OPTIONAL. This is true add-on work, not required Core-4 volume. Choose calf work OR Pallof after the four main Lower B slots when time and recovery are good. Use a deep controlled stretch and full top contraction without bouncing. Target 1-2 RIR for 10-15 reps. Current standing anchor is 60 lb, but recent sets reached RPE 9.5-10, so do not force more load. If the standing machine is occupied, choose one calf ALT below. Each machine has its own independent load track and unfamiliar leverage starts with a 2-3 RIR calibration set.",
+          "exercise_template_id": "E05C2C38",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 24.947610018960187,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 7,
+          "title": "Calf Press (Machine)",
+          "notes": "OPTIONAL SLOT - CALVES | ALT. Replaces Standing Calf Raise. Choose ONE movement for this slot; never do both by default. Use only as the substitute for optional standing-calf work. Keep knees softly fixed, sink into a controlled stretch and finish with a deliberate top contraction rather than bouncing. Aug 26 anchor is 110 for 12/12/13 at RPE 7.5-8.5; build toward 3x15 before increasing. This load belongs only to this setup. If leverage changes, calibrate set 1 at 2-3 RIR. Choose ONE calf variation; optional calves still compete with Pallof for the accessory slot.",
+          "exercise_template_id": "91237BDD",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 49.8952,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 49.8952,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 49.8952,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 8,
+          "title": "Calf Extension (Machine)",
+          "notes": "OPTIONAL SLOT - CALVES | ALT. Replaces Standing Calf Raise. Choose ONE movement for this slot; never do both by default. Use only as the substitute for optional standing-calf work. V2.1 uses a conservative 70-lb anchor because Sep 1 at 80 escalated to RPE 9.5-10. Make set 1 a 2-3 RIR calibration, adjust only if clearly needed and stop after three productive sets. Full stretch and top contraction matter more than the stack number. This load is independent from standing calf or calf press. Choose ONE calf variation; optional calves still compete with Pallof for the accessory slot.",
+          "exercise_template_id": "47B9DF13",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 31.7515,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 31.7515,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 31.7515,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 9,
+          "title": "Cable Core Pallof Press",
+          "notes": "OPTIONAL SLOT - CORE | OPTIONAL. This is true add-on work, not required Core-4 volume. Choose Pallof OR calf work after the four main Lower B slots; do not automatically perform both. Set the cable around lower-chest height, brace ribs over pelvis and press straight out without allowing the torso to rotate or lean. Keep roughly 2-3 RIR because this is trunk-control work rather than a PR event. Aug 18 used 20x20 comfortably, making 20 a good Lower B anchor; use 22.5 only when the same station and control justify it. Success is a square torso and quiet low back from first rep to last.",
+          "exercise_template_id": "CC55119B",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 9.0718,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 9.0718,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 12,
+                "end": 20
+              }
+            }
+          ],
+          "rest_seconds": 60
+        }
+      ]
+    },
+    {
+      "id": "567af9ba-cad1-4860-910f-35746f649a4b",
+      "title": "Recovery + Arms V2.1",
+      "folder_id": 3386110,
+      "updated_at": "2026-09-30T21:17:01.482Z",
+      "created_at": "2026-08-07T19:33:34.531Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Preacher Curl (Machine)",
+          "notes": "SLOT 1 - BICEPS | PRIMARY. Set the seat so the upper arm stays supported and the elbow lines up comfortably with the pad. Lower under control to a long biceps position without hyperextending, then curl without shoulder roll or hip drive. Recovery-day target is about 2 RIR for 8-12 reps. Recent work supports 60 lb as the practical anchor; build to a clean 3x12 before returning to 65. If this machine is occupied, use the Hammer Curl cable ALT and do not perform both as full primary volume.",
+          "exercise_template_id": "1E9A6B8E",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 27.2155,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 27.2155,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 27.2155,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 8,
+                "end": 12
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 1,
+          "title": "Hammer Curl (Cable)",
+          "notes": "SLOT 1 - BICEPS | ALT. Replaces Preacher Curl. Choose ONE movement for this slot; never do both by default. Use this when the preacher machine is unavailable. Stand tall with shoulders quiet, keep elbows near the torso and curl the rope/handles without swinging; control the lengthened position. Aug 12 anchor was 27.5 lb for 10/12/12 at RPE 7.5-8.5, so stay there and build clean reps before load. Cable-stack numbers vary by station, so recalibrate if the cable feels different. This replaces the primary biceps slot rather than becoming extra arm volume.",
+          "exercise_template_id": "36E8F14E",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 15.87575183024739,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": null
+              }
+            }
+          ],
+          "rest_seconds": 75
+        },
+        {
+          "index": 2,
+          "title": "Triceps Rope Pushdown",
+          "notes": "SLOT 2 - TRICEPS | PRIMARY. Stand tall with elbows pinned near the ribs and shoulders relaxed. Extend fully by driving the rope down/apart, then return under control without letting the elbows drift forward. Target about 2 RIR for 10-15 reps. Use 42.5 lb as the stable anchor; recent 45-lb work reached 10s around RPE 8.5-9, so earn the rep range before moving the default upward. Different cable stacks are not directly comparable. If occupied, use the machine-extension ALT instead of adding both.",
+          "exercise_template_id": "94B7239B",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 20.41168092460379,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 20.41168092460379,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 20.41168092460379,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 15,
+                "end": null
+              }
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 3,
+          "title": "Triceps Extension (Machine)",
+          "notes": "SLOT 2 - TRICEPS | ALT. Replaces Triceps Rope Pushdown. Choose ONE movement for this slot; never do both by default. Use this when the rope station is unavailable. Adjust the seat/pads so the elbows stay comfortable and the movement can reach a controlled stretch and full extension without shoulder roll or torso drive. Aug 8 showed 70x15 with RPE around 7, so 70 lb is a conservative machine-specific anchor; build quality and reserve before load. Treat every triceps machine as its own leverage system. Completing this replaces rope pushdowns for the slot; do not add the primary later.",
+          "exercise_template_id": "3092FADD",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 34.01946820767298,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 34.01946820767298,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 34.01946820767298,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 4,
+          "title": "Seated Incline Curl (Dumbbell)",
+          "notes": "SLOT 3 - SECONDARY BICEPS | OPTIONAL. This is true add-on work, not required Core-4 volume. Perform only when recovery is green after the primary curl/pushdown slots. Use a low-to-moderate incline that keeps the shoulders comfortable and upper arms slightly behind the torso. Keep shoulder blades on the bench, fully lengthen the biceps and curl without swinging or bringing elbows forward. Target 2-3 RIR. Recent baseline is 17.5x15 at roughly RPE 7.5-8.5; do not rush back to 22.5. Success is controlled stretch/curl with no shoulder or elbow strain.",
+          "exercise_template_id": "8BAB2735",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 9.071858188712795,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 9.071858188712795,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 5,
+          "title": "Overhead Triceps Extension (Cable)",
+          "notes": "SLOT 4 - SECONDARY TRICEPS | OPTIONAL. This is true add-on work, not required Core-4 volume. Perform only when recovery is green after the primary arm pair. Set the cable so ribs stay down and elbows remain mostly forward while the triceps reach a comfortable overhead stretch. Extend without flaring the elbows or arching the low back. Target 2-3 RIR for 10-15 reps; this is not a PR lift. Use 35 lb as a starting anchor only on the familiar stack and recalibrate elsewhere. If the cable is occupied, use the single-arm dumbbell ALT instead of doing both.",
+          "exercise_template_id": "B5EFBF9C",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 15.8757,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 15.8757,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": null,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 6,
+          "title": "Single Arm Tricep Extension (Dumbbell)",
+          "notes": "SLOT 4 - SECONDARY TRICEPS | ALT. Replaces Overhead Cable Triceps Extension. Choose ONE movement for this slot; never do both by default. Use this only as the substitute for the optional overhead cable extension, not as extra triceps volume. Keep ribs stacked, shoulder stable and elbow pointed mostly upward/forward; lower to a comfortable stretch and extend without torso lean. Aug 12 used 17.5 lb for 18/16 at RPE 8/9.5, so keep 17.5 and cap the planned range at 10-15 with 2-3 RIR instead of chasing more reps. Start with the weaker side and match clean reps.",
+          "exercise_template_id": "8347DFD1",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 9.071858188712795,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 9.071858188712795,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": 15
+              }
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 9.071858188712795,
+              "reps": null,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null,
+              "rep_range": {
+                "start": 10,
+                "end": null
+              }
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 7,
+          "title": "Reverse Crunch",
+          "notes": null,
+          "exercise_template_id": "7952B5CD",
+          "superset_id": 0,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": null,
+              "reps": 25,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": null,
+              "reps": 25,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 8,
+          "title": "Russian Twist (Weighted)",
+          "notes": null,
+          "exercise_template_id": "2982AA23",
+          "superset_id": 0,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 9.979044007584074,
+              "reps": 20,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 9.979044007584074,
+              "reps": 22,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 9,
+          "title": "Kettlebell Around the World",
+          "notes": null,
+          "exercise_template_id": "55BA475A",
+          "superset_id": 0,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 9.979044007584074,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 9.979044007584074,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 10,
+          "title": "Dead Bug",
+          "notes": null,
+          "exercise_template_id": "D8911FC4",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": null,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": null,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 11,
+          "title": "Bird Dog",
+          "notes": null,
+          "exercise_template_id": "BD0AD077",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": null,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": null,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 15
+        },
+        {
+          "index": 12,
+          "title": "Cycling",
+          "notes": null,
+          "exercise_template_id": "D8F7F851",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": null,
+              "reps": null,
+              "distance_meters": 3219,
+              "duration_seconds": 600,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 60
+        },
+        {
+          "index": 13,
+          "title": "Chest Fly (Dumbbell)",
+          "notes": null,
+          "exercise_template_id": "12017185",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 11.339822735890994,
+              "reps": 15,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 11.339822735890994,
+              "reps": 15,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "custom_metric": null
+            }
+          ],
+          "rest_seconds": 90
+        }
+      ]
+    }
+  ]
+}
